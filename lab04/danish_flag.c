@@ -20,9 +20,6 @@ int main()
     
     int i = 1;
 
-
-
-    
     while (i <= height) {
         int j = 1;
         while (j <= width) {
